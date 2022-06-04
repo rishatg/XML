@@ -3,12 +3,12 @@
     <Environment>Android</Environment>
     <ID>1</ID>
     <STEPS>
-      <Step1>Install app</Step1>
-      <Step2>Open App</Step2>
-	  <Step3>Tap Register button</Step3>
-	  <Step4>Input Email</Step4>
-	  <Step5>Input Password</Step5>
-	  <Step6>Tap Register</Step6>
+	    <Step1>Install app</Step1>
+	    <Step2>Open App</Step2>
+	    <Step3>Tap Register button</Step3>
+	    <Step4>Input Email</Step4>
+	    <Step5>Input Password</Step5>
+	    <Step6>Tap Register</Step6>
     </STEPS>
     <Actual_Result>Registration Sucessful!</Actual_Result>
     <Expected_Result>Registration Sucessful!</Expected_Result>
